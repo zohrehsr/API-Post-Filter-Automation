@@ -187,5 +187,3 @@ Developed as part of a **Python Automation learning path** with a focus on real-
 
 ## 📄 License
 This project is for educational and portfolio purposes.
-
-This project is for educational and portfolio purposes.
